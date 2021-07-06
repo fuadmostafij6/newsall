@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838841646271",
+    "project_id": "newsphobia-6b39e",
+    "storage_bucket": "newsphobia-6b39e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838841646271:android:f6ab74fc1700b96314da0a",
+        "android_client_info": {
+          "package_name": "com.fuad.newsphobia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838841646271-ml2ieeek8mdsuq29rceit2b15gtkkt1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw1qEzL29Y76HXB5q2-KG-XjIfV3bJVGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838841646271-ml2ieeek8mdsuq29rceit2b15gtkkt1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
